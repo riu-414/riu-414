@@ -24,10 +24,21 @@ const EXCLUDE_CATEGORY = ['Uncategorized'];
 const THUMB_W = 768;
 const THUMB_H = 480;
 
+async function fetchWithRetry(url, tries = 3) {
+  for (let i = 1; ; i++) {
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': 'riu-414-profile-updater' }, signal: AbortSignal.timeout(30_000) });
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}: ${url}`);
+      return res;
+    } catch (err) {
+      if (i >= tries) throw err;
+      await new Promise((r) => setTimeout(r, 3000 * i));
+    }
+  }
+}
+
 async function getJSON(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'riu-414-profile-updater' } });
-  if (!res.ok) throw new Error(`${res.status} ${res.statusText}: ${url}`);
-  return res.json();
+  return (await fetchWithRetry(url)).json();
 }
 
 function decodeEntities(str) {
@@ -52,8 +63,7 @@ function tagBadge(label) {
 
 // アイキャッチ画像を埋め込んだ SVG を作る（README では object-fit が使えないため）
 async function buildThumb(imageUrl, slug) {
-  const res = await fetch(imageUrl);
-  if (!res.ok) throw new Error(`${res.status}: ${imageUrl}`);
+  const res = await fetchWithRetry(imageUrl);
   const type = res.headers.get('content-type') ?? 'image/jpeg';
   const data = Buffer.from(await res.arrayBuffer()).toString('base64');
   const svg =
@@ -126,9 +136,21 @@ function replaceSection(md, name, content) {
   return md.replace(re, `$1\n${content}\n$2`);
 }
 
+// 取得に失敗したセクションは前回の内容のまま残す
+async function update(md, name, render) {
+  try {
+    return replaceSection(md, name, await render());
+  } catch (err) {
+    console.error(`::warning::${name} の更新をスキップしました: ${err.cause?.message ?? err.message}`);
+    failed = true;
+    return md;
+  }
+}
+
+let failed = false;
 const readme = await readFile(README, 'utf8');
-let next = replaceSection(readme, 'WORKS', await renderWorks());
-next = replaceSection(next, 'BLOG', await renderBlog());
+let next = await update(readme, 'WORKS', renderWorks);
+next = await update(next, 'BLOG', renderBlog);
 
 if (next !== readme) {
   await writeFile(README, next);
@@ -136,3 +158,5 @@ if (next !== readme) {
 } else {
   console.log('README.md is up to date');
 }
+
+if (failed) process.exitCode = 1;
