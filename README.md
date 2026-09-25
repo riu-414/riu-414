@@ -25,8 +25,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,wordpress,php,figma,xd,ai,github&theme=dark&perline=12">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,wordpress,php,figma,xd,ai,github&theme=light&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, jQuery, WordPress, PHP, Figma, XD, Illustrator, GitHub">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cjquery%2Cwordpress%2Cphp%2Cfigma%2Cxd%2Cai%2Cgithub&theme=dark&perline=12">
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cjquery%2Cwordpress%2Cphp%2Cfigma%2Cxd%2Cai%2Cgithub&theme=light&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, jQuery, WordPress, PHP, Figma, XD, Illustrator, GitHub">
   </picture>
 </p>
 
