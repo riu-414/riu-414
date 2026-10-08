@@ -67,9 +67,9 @@
 </picture>
 
 <!-- BLOG:START -->
+- `2026.10.09` [【初心者向け】小さなお店の通販はどこで始める？BASE・STORES・Shopify・WooCommerceの費用と手間を比較🛒](https://codecabinbyyuya.com/2026/10/09/small-shop-online-store-comparison/)
 - `2026.08.26` [【解決】kintone MCPサーバーが急に接続エラー｜原因はJSON Schemaだった](https://codecabinbyyuya.com/2026/08/26/kintone-mcp-server-connection-error/)
 - `2026.07.10` [【初心者向け】WordPressで問い合わせフォームを作る方法！Contact Form 7の使い方と集客のコツ](https://codecabinbyyuya.com/2026/07/10/wordpress-contact-form-7/)
-- `2026.06.27` [【初心者向け】Reactに入る前に知っておきたいJavaScriptの基礎9選](https://codecabinbyyuya.com/2026/06/27/javascript-basics-before-react/)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://codecabinbyyuya.com/"><b>READ ON BLOG →</b></a></p>
