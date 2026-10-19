@@ -41,6 +41,11 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://yuyaoo.com/%e3%81%be%e3%82%8f%e3%82%8a%e3%81%bf%e3%81%a1%e5%86%99%e7%9c%9f%e5%ba%97%ef%bc%88%e3%83%87%e3%83%a2%e3%82%b5%e3%82%a4%e3%83%88%ef%bc%89/"><img src="./assets/works/work-227.svg" alt="まわりみち写真店（デモサイト）" width="100%"></a><br>
+<a href="https://yuyaoo.com/%e3%81%be%e3%82%8f%e3%82%8a%e3%81%bf%e3%81%a1%e5%86%99%e7%9c%9f%e5%ba%97%ef%bc%88%e3%83%87%e3%83%a2%e3%82%b5%e3%82%a4%e3%83%88%ef%bc%89/"><b>まわりみち写真店（デモサイト）</b></a><br>
+<img src="https://img.shields.io/badge/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="AIコーディング"> <img src="https://img.shields.io/badge/WordPress%E6%A7%8B%E7%AF%89-A85E36?style=flat-square" alt="WordPress構築"> <img src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="コーディング"> <img src="https://img.shields.io/badge/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-A85E36?style=flat-square" alt="デザイン">
+</td>
+<td width="33%" valign="top">
 <a href="https://yuyaoo.com/%e3%81%97%e3%81%8a%e3%82%8a%e3%81%ae%e6%9c%a8%ef%bc%88%e3%82%ab%e3%83%95%e3%82%a7%e3%81%ae%e3%83%87%e3%83%a2%e3%82%b5%e3%82%a4%e3%83%88%ef%bc%89/"><img src="./assets/works/work-222.svg" alt="しおりの木（カフェのデモサイト）" width="100%"></a><br>
 <a href="https://yuyaoo.com/%e3%81%97%e3%81%8a%e3%82%8a%e3%81%ae%e6%9c%a8%ef%bc%88%e3%82%ab%e3%83%95%e3%82%a7%e3%81%ae%e3%83%87%e3%83%a2%e3%82%b5%e3%82%a4%e3%83%88%ef%bc%89/"><b>しおりの木（カフェのデモサイト）</b></a><br>
 <img src="https://img.shields.io/badge/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="AIコーディング"> <img src="https://img.shields.io/badge/WordPress%E6%A7%8B%E7%AF%89-A85E36?style=flat-square" alt="WordPress構築"> <img src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="コーディング"> <img src="https://img.shields.io/badge/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-A85E36?style=flat-square" alt="デザイン">
@@ -49,11 +54,6 @@
 <a href="https://yuyaoo.com/subsc-note%ef%bc%88%e3%82%b5%e3%83%96%e3%82%b9%e3%82%af%e7%ae%a1%e7%90%86%e3%82%a2%e3%83%97%e3%83%aa%ef%bc%89/"><img src="./assets/works/work-213.svg" alt="Subsc Note（サブスク管理アプリ）" width="100%"></a><br>
 <a href="https://yuyaoo.com/subsc-note%ef%bc%88%e3%82%b5%e3%83%96%e3%82%b9%e3%82%af%e7%ae%a1%e7%90%86%e3%82%a2%e3%83%97%e3%83%aa%ef%bc%89/"><b>Subsc Note（サブスク管理アプリ）</b></a><br>
 <img src="https://img.shields.io/badge/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="AIコーディング"> <img src="https://img.shields.io/badge/%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E6%A7%8B%E7%AF%89-A85E36?style=flat-square" alt="バックエンド構築"> <img src="https://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA-A85E36?style=flat-square" alt="個人開発">
-</td>
-<td width="33%" valign="top">
-<a href="https://yuyaoo.com/%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89%e3%82%b7%e3%83%8d%e3%83%9e/"><img src="./assets/works/work-209.svg" alt="トレンドシネマ" width="100%"></a><br>
-<a href="https://yuyaoo.com/%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89%e3%82%b7%e3%83%8d%e3%83%9e/"><b>トレンドシネマ</b></a><br>
-<img src="https://img.shields.io/badge/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-A85E36?style=flat-square" alt="AIコーディング"> <img src="https://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA-A85E36?style=flat-square" alt="個人開発">
 </td>
 </tr>
 </table>
