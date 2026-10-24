@@ -67,9 +67,9 @@
 </picture>
 
 <!-- BLOG:START -->
+- `2026.10.24` [【個人開発】社内業務システムを作る #1 Laravel Sailで開発環境を作る｜.envは最初の起動前に決めよう🐳](https://codecabinbyyuya.com/2026/10/24/office-hub-01-environment/)
 - `2026.10.18` [【個人開発】社内業務システムを作る #0 題材選びと設計書づくり｜AIのレビューでコードを書く前にバグが4つ見つかった話📐](https://codecabinbyyuya.com/2026/10/18/office-hub-00-design/)
 - `2026.10.09` [【初心者向け】小さなお店の通販はどこで始める？BASE・STORES・Shopify・WooCommerceの費用と手間を比較🛒](https://codecabinbyyuya.com/2026/10/09/small-shop-online-store-comparison/)
-- `2026.08.26` [【解決】kintone MCPサーバーが急に接続エラー｜原因はJSON Schemaだった](https://codecabinbyyuya.com/2026/08/26/kintone-mcp-server-connection-error/)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://codecabinbyyuya.com/"><b>READ ON BLOG →</b></a></p>
