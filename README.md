@@ -67,9 +67,9 @@
 </picture>
 
 <!-- BLOG:START -->
+- `2026.11.03` [【イベントレポート】KomeKaigi 2026に撮影スタッフとして参加してきました｜AI時代に「人と話す」価値🍙](https://codecabinbyyuya.com/2026/11/03/komekaigi-2026-report/)
 - `2026.10.24` [【個人開発】社内業務システムを作る #1 Laravel Sailで開発環境を作る｜.envは最初の起動前に決めよう🐳](https://codecabinbyyuya.com/2026/10/24/office-hub-01-environment/)
 - `2026.10.18` [【個人開発】社内業務システムを作る #0 題材選びと設計書づくり｜AIのレビューでコードを書く前にバグが4つ見つかった話📐](https://codecabinbyyuya.com/2026/10/18/office-hub-00-design/)
-- `2026.10.09` [【初心者向け】小さなお店の通販はどこで始める？BASE・STORES・Shopify・WooCommerceの費用と手間を比較🛒](https://codecabinbyyuya.com/2026/10/09/small-shop-online-store-comparison/)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://codecabinbyyuya.com/"><b>READ ON BLOG →</b></a></p>
